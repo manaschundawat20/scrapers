@@ -657,7 +657,7 @@ class Capture:
             # base_folder = "/var/www/html/py/ob_occ/output/caddocounty/land/"
             # capture.create_folder_with_current_date(base_folder)
 
-            capture.login('ops@oseberg.io', 'ypg0ucy*rcy0nyr3FTD')
+            capture.login('', '')
 
             capture.selenium_data()  # comment this for process id
             time.sleep(1)
